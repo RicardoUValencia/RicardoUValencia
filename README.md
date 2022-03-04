@@ -47,12 +47,13 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
    
    <a href=https://www.mysql.com/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">      </a>
+     
+   <a href="https://www.w3.org/html/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">       
+    </a>
     
    <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
-       
-    <a href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
         
 <!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
