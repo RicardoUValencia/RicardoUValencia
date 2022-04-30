@@ -56,10 +56,15 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
         
 ## ⚡ My GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
- 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
+</a>
 <!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
