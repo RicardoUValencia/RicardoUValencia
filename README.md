@@ -56,7 +56,7 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
         
 ⚡## My GitHub Status
-<img height="150em" src="https://camo.githubusercontent.com/44b0799dc0712a9890b5ba10702a9d270a94ab96002aac009cef34708465b97b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66656c667426636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d747275652673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d66616c73652673686f775f6f776e65723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=felft&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;show_owner=true" style="max-width: 100%;">
+<img height="150em" src="https://camo.githubusercontent.com/44b0799dc0712a9890b5ba10702a9d270a94ab96002aac009cef34708465b97b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66656c667426636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d747275652673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f626f726465723d66616c73652673686f775f6f776e65723d74727565">
         
 <!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
