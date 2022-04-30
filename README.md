@@ -31,14 +31,16 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
 ## Laguages :computer: :stuck_out_tongue_closed_eyes:: 
 <div align="center" valign="top" dir="auto">
     <br>
-   <a href=https://git-scm.com/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;"></a>
+        <a href=https://git-scm.com/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;">          </a>
    
-   <a href=https://www.python.org/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
+        <a href=https://www.python.org/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+        </a>
     
    <a href=https://www.cprogramming.com/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;">
+   </a>
    
    <a href=https://docs.microsoft.com/en-us/windows/wsl/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" alt="python" width="40" height="40" style="max-width: 100%;"></a>
@@ -52,11 +54,11 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
    <a href="https://www.w3.org/html/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">       
     </a>
-    </div>
-    <br>
     
    <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+</div>
+<br>
         
 ## ⚡ My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
