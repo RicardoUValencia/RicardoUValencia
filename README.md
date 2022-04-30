@@ -10,7 +10,7 @@
     </path>
     </svg>
 </a>
-_I'm Bachelor Computing student, I like learn about Tech specially data science_
+<div align="center" valign="top" dir="auto">I'm Bachelor Computing student, I like learn about Tech specially data science</div>
 </h3>
 <br>
 
