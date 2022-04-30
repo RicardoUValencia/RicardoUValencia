@@ -56,7 +56,7 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
         
 ## ⚡ My GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
  
 <!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
