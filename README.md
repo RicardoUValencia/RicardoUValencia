@@ -31,15 +31,14 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
 ## Laguages :computer: :stuck_out_tongue_closed_eyes:: 
 <div align="center" valign="top" dir="auto">
     <br>
-        <a href=https://git-scm.com/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;">          </a>
+   <a href=https://git-scm.com/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;">          </a>
    
-        <a href=https://www.python.org/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-        </a>
+   <a href=https://www.python.org/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
     
    <a href=https://www.cprogramming.com/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;">
    </a>
    
    <a href=https://docs.microsoft.com/en-us/windows/wsl/>
