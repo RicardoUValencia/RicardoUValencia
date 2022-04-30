@@ -29,7 +29,8 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
 
     
 ## Laguages :computer: :stuck_out_tongue_closed_eyes:: 
-
+<div align="center" valign="top" dir="auto">
+    <br>
    <a href=https://git-scm.com/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;"></a>
    
@@ -51,6 +52,8 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
    <a href="https://www.w3.org/html/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">       
     </a>
+    </div>
+    <br>
     
    <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
