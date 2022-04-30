@@ -57,6 +57,7 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
         
 ## ⚡ My GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia)](https://github.com/RicardoUValencia/github-readme-stats)
  
 <!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
