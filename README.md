@@ -10,18 +10,18 @@
     </path>
     </svg>
 </a>
-*I'm Bachelor Computing student, I like learn about Tech specially data science
+*I'm Bachelor Computing student, I like learn about Tech specially data science*
 </h3>
 <br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/183f4c68cddcd17c38ca121d4a5fe535abfe8453e7112a19bc98b10d55f4ae25/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/183f4c68cddcd17c38ca121d4a5fe535abfe8453e7112a19bc98b10d55f4ae25/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="aleepsy" data-canonical-src="https://komarev.com/ghpvc/?username=aleepsy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
-*- 🌱 I’m currently learning Azure Cloud
+*- 🌱 I’m currently learning Azure Cloud*
 
-*- 👯 I’m looking to collaborate on tech communities
+*- 👯 I’m looking to collaborate on tech communities*
 
     
-_## 📫 Connect with me:_
+## 📫 Connect with me:
 <br>
    <a href=https://twitter.com/ru_viper>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
@@ -61,7 +61,7 @@ _## 📫 Connect with me:_
 </div>
 <br>
         
-*##⚡ My GitHub Stats*
+##⚡ My GitHub Stats
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
