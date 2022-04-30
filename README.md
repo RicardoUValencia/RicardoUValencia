@@ -21,7 +21,7 @@
 *- 👯 I’m looking to collaborate on tech communities*
 
     
-## 📫 Connect with me:
+## 📫 Social media
 <br>
    <a href=https://twitter.com/ru_viper>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
@@ -30,7 +30,7 @@
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" style="max-width: 100%;">
 
     
-## Laguages :computer: :stuck_out_tongue_closed_eyes::
+## Laguages and tools :computer: :stuck_out_tongue_closed_eyes::
 <div align="center" valign="top" dir="auto">
     <br>
    <a href=https://git-scm.com/>
