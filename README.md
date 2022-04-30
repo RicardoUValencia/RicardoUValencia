@@ -56,7 +56,7 @@ I'm Bachelor Computing student, I like learn about Tech specially data science
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
         
 ## ⚡ My GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;show_owner=true" style="max-width: 100%;")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;show_owner=true" style="max-width: 100%;")
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
  
