@@ -20,7 +20,7 @@
 *- 👯 I’m looking to collaborate on tech communities*
 
     
-_📫 Connect with me:_
+_## 📫 Connect with me:_
    <a href=https://twitter.com/ru_viper>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
    
@@ -28,7 +28,7 @@ _📫 Connect with me:_
      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" style="max-width: 100%;">
 
     
-Laguages :computer: :stuck_out_tongue_closed_eyes::
+## Laguages :computer: :stuck_out_tongue_closed_eyes::
 <div align="center" valign="top" dir="auto">
     <br>
    <a href=https://git-scm.com/>
@@ -59,7 +59,7 @@ Laguages :computer: :stuck_out_tongue_closed_eyes::
 </div>
 <br>
         
-*⚡ My GitHub Stats*
+*##⚡ My GitHub Stats*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
 
