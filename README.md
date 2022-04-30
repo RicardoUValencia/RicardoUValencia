@@ -63,7 +63,7 @@
         
 ## ⚡ My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoUValencia&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact)](https://github.com/RicardoUValencia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoUValencia&layout=compact&theme=chartreuse-dark)](https://github.com/RicardoUValencia/github-readme-stats)
 
 
 <!--
