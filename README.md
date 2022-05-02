@@ -21,7 +21,7 @@
 *- 👯 I’m looking to collaborate on tech communities*
 
     
-## 📫 Social media
+## 📫 Socials
 <br>
    <a href=https://twitter.com/ru_viper>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
