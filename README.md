@@ -49,6 +49,9 @@
    <a href=https://www.java.com/es/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
    
+   <a href=https://azure.microsoft.com/es-mx/features/azure-portal/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">      </a>
+     
    <a href=https://www.mysql.com/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">      </a>
      
