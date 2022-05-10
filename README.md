@@ -16,10 +16,14 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/183f4c68cddcd17c38ca121d4a5fe535abfe8453e7112a19bc98b10d55f4ae25/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/183f4c68cddcd17c38ca121d4a5fe535abfe8453e7112a19bc98b10d55f4ae25/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="aleepsy" data-canonical-src="https://komarev.com/ghpvc/?username=aleepsy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 
+<p>
+   <a target="_blank" reel="noopener noreferrer">
+        <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="360px" style="max-width: 100%;">
+</p>
+
 *- 🌱 I’m currently learning Azure Cloud*
 
 *- 👯 I’m looking to collaborate on tech communities*
-
     
 ## 📫 Socials
 <br>
@@ -33,7 +37,7 @@
 ## Laguages and tools :computer: :stuck_out_tongue_closed_eyes::
 <div align="center" valign="top" dir="auto">
     <br>
-   <a href=https://git-scm.com/>
+   <a href="https://git-scm.com/" reel="nofollow">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;">          </a>
    
    <a href=https://www.python.org/>
