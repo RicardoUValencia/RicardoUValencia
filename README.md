@@ -50,9 +50,9 @@
 </a>
    
 <a href="https://www.python.org/">
-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit" alt="python" width="130" height="40" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="130" height="40" style="max-width: 100%;">
 </a>
-    
+
 <a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US">
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="windows-terminal" width="220" height="40" style="max-width: 100%;">
 </a>
@@ -74,7 +74,7 @@
 </a>
      
 <a href="https://www.mysql.com/">
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="130" height="40" style="max-width: 100%;"> </a>
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="140" height="40" style="max-width: 100%;"> </a>
     
 <a href="https://ubuntu.com/wsl">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="130" height="40" style="max-width: 100%;">
@@ -82,6 +82,10 @@
      
 <a href="https://www.w3.org/html/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="130" height="40" style="max-width: 100%;">   
+</a>
+    
+<a href="https://netbeans.apache.org/">
+    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="netbeanside" width="190" height="40" style="max-width: 100%;">    
 </a>
     
 <a href="https://getbootstrap.com">
