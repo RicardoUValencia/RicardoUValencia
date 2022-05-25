@@ -26,40 +26,67 @@
 ## 📫 Socials
 <br>
    <a href="https://twitter.com/ru_viper">
-     <img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 
     
 ## Laguages and tools :computer: :stuck_out_tongue_closed_eyes::
 <div align="center" valign="top" dir="auto">
-    <br>
-   <a href="https://git-scm.com/" reel="nofollow">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width: 100%;">          </a>
-   
-   <a href="https://www.python.org/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-    
-   <a href="https://www.cprogramming.com/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;">
-   </a>
-   
-   <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-   
-   <a href="https://www.java.com/es/">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
-   
-   <a href="https://azure.microsoft.com/es-mx/features/azure-portal/">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">      </a>
-     
-   <a href="https://www.mysql.com/">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">      </a>
-     
-   <a href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">       
+   <br>
+<a href="https://www.eclipse.org/" reel="nofollow">
+   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="git" width="140" height="40" style="max-width: 100%;">
     </a>
     
-   <a href="https://getbootstrap.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.jetbrains.com/es-es/idea/" reel="nofollow">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="git" width="180" height="40" style="max-width: 100%;">
+    </a>
+    
+   <br>
+<a href="https://code.visualstudio.com/" reel="nofollow">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="git" width="220" height="40" style="max-width: 100%;">
+</a>
+    
+<a href="https://git-scm.com/" reel="nofollow">
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="90" height="40" style="max-width: 100%;">     
+</a>
+   
+<a href="https://www.python.org/">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit" alt="python" width="130" height="40" style="max-width: 100%;">
+</a>
+    
+<a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US">
+    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="windows-terminal" width="220" height="40" style="max-width: 100%;">
+</a>
+    
+<a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width: 100%;">
+</a>
+   
+<a href="https://docs.microsoft.com/en-us/windows/wsl/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" alt="python" width="40" height="40" style="max-width: 100%;">
+</a>
+   
+<a href="https://www.java.com/es/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="40" style="max-width: 100%;">
+</a>
+   
+<a href="https://azure.microsoft.com/es-mx/features/azure-portal/">
+     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" width="220" height="40" style="max-width: 100%;">      
+</a>
+     
+<a href="https://www.mysql.com/">
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="130" height="40" style="max-width: 100%;"> </a>
+    
+<a href="https://ubuntu.com/wsl">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" width="130" height="40" style="max-width: 100%;">
+</a>
+     
+<a href="https://www.w3.org/html/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="130" height="40" style="max-width: 100%;">   
+</a>
+    
+<a href="https://getbootstrap.com">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="150" height="40" style="max-width: 100%;">
+</a>
 </div>
 <br>
         
