@@ -31,8 +31,7 @@
     
 <!-- <a href="https://twitter.com/ru_viper">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-</a> 
--->
+</a> -->
 
     
 ## Laguages and tools :computer: :stuck_out_tongue_closed_eyes::
