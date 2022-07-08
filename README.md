@@ -25,8 +25,8 @@
     
 ## 📫 Socials
 <br>
-<a href="https://linktr.ee/RicardoUValencia">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" style="max-width: 100%">
+<a href="https://www.linkedin.com/in/ricardo-uribe-valencia-b63691220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="max-width: 100%">
 </a>
     
 <!-- <a href="https://twitter.com/ru_viper">
