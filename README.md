@@ -19,9 +19,13 @@
         <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="360px" style="max-width: 100%;">
 </p>
 
-*- 🌱 Learning Cloud Compute*
+<pre class = "notranslate">
+    <code> 
+        *- 🌱 Learning Cloud Compute*
 
-*- 👯 I’m looking to collaborate on tech communities*
+        *- 👯 I’m looking to collaborate on tech communities*
+    </code>
+</pre>
     
 ## 📫 Socials
 <br>
