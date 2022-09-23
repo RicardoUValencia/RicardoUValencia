@@ -21,9 +21,9 @@
 
 <pre class = "notranslate">
     <code> 
-        🌱 Learning Cloud Compute*
+        🌱 Learning Cloud Compute
 
-        👯 I’m looking to collaborate on tech communities*
+        👯 I’m looking to collaborate on tech communities
     </code>
 </pre>
     
