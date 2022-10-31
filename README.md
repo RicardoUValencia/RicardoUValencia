@@ -29,7 +29,7 @@
     
 ## 📫 Socials
 <br>
-<a href="https://www.linkedin.com/in/ricardo-uribe-valencia-b63691220/">
+<a href="https://www.linkedin.com/in/ricardouv/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="max-width: 100%">
 </a>
     
