@@ -10,7 +10,7 @@
     </path>
     </svg>
 </a>
-<div align="center" valign="top" dir="auto">I'm Bachelor Computing student, I like learn about Tech specially data science</div>
+<div align="center" valign="top" dir="auto">I'm Bachelor Computing student</div>
 </h3>
 <br> 
 
@@ -21,7 +21,7 @@
 
 <pre class = "notranslate">
     <code> 
-        🌱 Learning Cloud Compute
+        🌱 I like learn about Tech specially cloud compute and cibersecurity
 
         👯 I’m looking to collaborate on tech communities
     </code>
