@@ -23,7 +23,7 @@
     <code> 
         🌱 I like learn about Tech specially cloud compute and cibersecurity
 
-        👯 I’m looking to collaborate on tech communities
+        👯 I’m like to collaborate in tech communities
     </code>
 </pre>
     
