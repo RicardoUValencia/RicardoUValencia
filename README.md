@@ -20,26 +20,52 @@
        <img align="right" alt="GIF" src="https://camo.githubusercontent.com/b396fda3c50ba27ff9d72f78fb99d140121b852f3fafb617820f345c0539fbee/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73" width="120px" style="max-width: 100%;">
 </p>
 
+<h3 dir="auto"> About me </h3>
 <pre class = "notranslate">
     <code> 
-        🌱 I like learn about Tech specially cloud compute and cibersecurity
 
-        👯 I’m like to collaborate in tech communities
-    </code>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-v">Ricardo</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+  <span class="pl-c1">pronouns</span>: <span class="pl-s">'He'</span> <span class="pl-c1">|</span> <span class="pl-s">'His'</span><span class="pl-kos">,</span>
+  <span class="pl-c1">Interest</span>: <span class="pl-kos">{</span>
+    <b>
+      <span class="pl-s"><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️ Cloud Computing</g-emoji></span><span class="pl-kos">
+      <span class="pl-s"><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐 Cibersecurity</g-emoji></span><span class="pl-kos">
+          <span class="pl-s"><g-emoji class="g-emoji" alias="large_blue_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png">🔵 Microsoft Learn Student Ambassador</g-emoji></span><span class="pl-kos">
+      </b>
+      
+  <span class="pl-c1"><g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎techCommunities</g-emoji></span>: <span class="pl-kos">{</span>
+                <span class="pl-c1"><img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> social media leader</span>: <span class="pl-s">'Nopalito Tech'</span><span class="pl-kos">,</span>
+                <span class="pl-c1"><g-emoji class="g-emoji" alias="frog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png">🐸 Volunteer</g-emoji></span>: <span class="pl-s">'Azure Tech Frogs'</span><span class="pl-kos">,</span> 
+                <span class="pl-c1"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤 speaker</g-emoji></span>: <span class="pl-s">'Microsoft Learn Student Ambassadors'</span><span class="pl-kos">,</span>
+    </clipboard-copy>
+  </div></div>
+   </code>
+   <img src="https://img.shields.io/github/followers/RicardoUValencia.svg?style=social&label=Follow&maxAge=2592000">
+   <img src="https://camo.githubusercontent.com/0844f5f49ed2cf9e19c4a8529666f6fc02b21b58e855c8760e700cc86233b568/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c617426636f6c6f723d79656c6c6f77" alt="RicardoUValencia" data-canonical-src="https://komarev.com/ghpvc/?username=RicardoUValencia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;color=yellow" style="max-width: 100%;">
 </pre>
+
+  
     
-## 📫 Socials
+<div align="center"><h2 dir="auto"> 📫 Socials </h2>
 <br>
+
 <a href="https://www.linkedin.com/in/ricardouv/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="max-width: 100%">
 </a>
+
+<a href="https://twitter.com/_ricardouv">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+
+</div>
     
 <!-- <a href="https://twitter.com/ru_viper">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
 </a> -->
 
     
-## Laguages and tools :computer: :stuck_out_tongue_closed_eyes::
+## Laguages and tools :computer::
 <div align="center" valign="top" dir="auto">
    <br>
 <a href="https://www.eclipse.org/" reel="nofollow">
@@ -112,11 +138,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RicardoUValencia&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img src="https://github.com/fehbs/fehbs/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+<!-- <img src="https://github.com/fehbs/fehbs/raw/output/github-contribution-grid-snake.svg" style="max-width: 100;">
 
-
-
-<!--
 **RicardoUValencia/RicardoUValencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
