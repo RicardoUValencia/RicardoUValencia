@@ -25,7 +25,7 @@
     <code> 
 
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-v">Ricardo</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">pronouns</span>: <span class="pl-s">'He'</span> <span class="pl-c1">|</span> <span class="pl-s">'His'</span><span class="pl-kos">,</span>
+  <span class="pl-c1">pronouns</span>: <span class="pl-s">'He'</span> <span class="pl-c1">|</span> <span class="pl-s">'Him'</span><span class="pl-kos">,</span>
   <span class="pl-c1">Interest</span>: <span class="pl-kos">{</span>
     <b>
       <span class="pl-s"><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️ Cloud Computing</g-emoji></span><span class="pl-kos">
