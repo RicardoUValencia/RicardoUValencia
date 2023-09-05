@@ -29,19 +29,19 @@
   <span class="pl-c1">Interest</span>: <span class="pl-kos">{</span>
     <b>
       <span class="pl-s"><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️ Cloud Computing</g-emoji></span><span class="pl-kos">
-      <span class="pl-s"><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐 Cibersecurity</g-emoji></span><span class="pl-kos">
+     <!-- <span class="pl-s"><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐 Cibersecurity</g-emoji></span><span class="pl-kos"> -->
           <span class="pl-s"><g-emoji class="g-emoji" alias="large_blue_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f535.png">🔵 Microsoft Learn Student Ambassador</g-emoji></span><span class="pl-kos">
       </b>
       
   <span class="pl-c1"><g-emoji class="g-emoji" alias="paperclip" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ce.png">📎techCommunities</g-emoji></span>: <span class="pl-kos">{</span>
-                <span class="pl-c1"><img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> social media leader</span>: <span class="pl-s">'Nopalito Tech'</span><span class="pl-kos">,</span>
+               <!-- <span class="pl-c1"><img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> social media leader</span>: <span class="pl-s">'Nopalito Tech'</span><span class="pl-kos">,</span> -->
                 <span class="pl-c1"><g-emoji class="g-emoji" alias="frog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png">🐸 Volunteer</g-emoji></span>: <span class="pl-s">'Azure Tech Frogs'</span><span class="pl-kos">,</span> 
                 <span class="pl-c1"><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤 speaker</g-emoji></span>: <span class="pl-s">'Microsoft Learn Student Ambassadors'</span><span class="pl-kos">,</span>
     </clipboard-copy>
   </div></div>
    </code>
-   <img src="https://img.shields.io/github/followers/RicardoUValencia.svg?style=social&label=Follow&maxAge=2592000">
-   <img src="https://camo.githubusercontent.com/0844f5f49ed2cf9e19c4a8529666f6fc02b21b58e855c8760e700cc86233b568/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c617426636f6c6f723d79656c6c6f77" alt="RicardoUValencia" data-canonical-src="https://komarev.com/ghpvc/?username=RicardoUValencia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;color=yellow" style="max-width: 100%;">
+   <!-- <img src="https://img.shields.io/github/followers/RicardoUValencia.svg?style=social&label=Follow&maxAge=2592000"> 
+    <img src="https://camo.githubusercontent.com/0844f5f49ed2cf9e19c4a8529666f6fc02b21b58e855c8760e700cc86233b568/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c6565707379266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c617426636f6c6f723d79656c6c6f77" alt="RicardoUValencia" data-canonical-src="https://komarev.com/ghpvc/?username=RicardoUValencia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;color=yellow" style="max-width: 100%;"> -->
 </pre>
 
   
