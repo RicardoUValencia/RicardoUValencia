@@ -15,9 +15,7 @@
 <br> 
 
 <p>
-   <a target="_blank" reel="noopener noreferrer">
-        <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="360px" style="max-width: 100%;">
-       <img align="right" alt="GIF" src="https://camo.githubusercontent.com/b396fda3c50ba27ff9d72f78fb99d140121b852f3fafb617820f345c0539fbee/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73" width="120px" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/20e29ca6bc6c41b5ce4b2834aac00207a0c968b3e3a21a93af77aa2e2243d0cb/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73" align="right" data-canonical-src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&amp;rid=giphy.gif&amp;ct=s" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 <h3 dir="auto"> About me </h3>
