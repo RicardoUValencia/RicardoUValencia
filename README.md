@@ -15,7 +15,10 @@
 <br> 
 
 <p>
-   <img src="https://camo.githubusercontent.com/20e29ca6bc6c41b5ce4b2834aac00207a0c968b3e3a21a93af77aa2e2243d0cb/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73" align="right" data-canonical-src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&amp;rid=giphy.gif&amp;ct=s" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+   <img src="https://camo.githubusercontent.com/20e29ca6bc6c41b5ce4b2834aac00207a0c968b3e3a21a93af77aa2e2243d0cb/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4c724d427875564b714448434f4a373966502f67697068792e6769663f6369643d6563663035653437776a727930743736686f306c77707171726d67786a6269677366627639356a38756d386873766877267269643d67697068792e6769662663743d73" align="right" data-canonical-src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&amp;rid=giphy.gif&amp;ct=s" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" align="left">
 </p>
 
 <h3 dir="auto"> About me </h3>
