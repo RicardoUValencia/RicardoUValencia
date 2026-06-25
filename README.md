@@ -10,7 +10,7 @@
     </path>
     </svg>
 </a>
-<div align="center" valign="top" dir="auto">I'm Bachelor Computing student</div>
+<div align="center" valign="top" dir="auto">I'm computer engineer</div>
 </h3>
 <br> 
 
